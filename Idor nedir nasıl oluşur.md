@@ -15,11 +15,11 @@ Kritik, kamuya açık ya da özel verilere erişim
 
 Bir e-ticaret sitesinden kulaklık aldığımızı düşünelim. Sipariş sonrası sistem, faturayı görüntüleyebilmemiz için bir buton sunuyor. Bu butona tıkladığımızda tarayıcıda şu adrese yönlendiriliyoruz:
 
-      https://keremticaret/faturagor/123
+https://keremticaret/faturagor/123
 
 Buradaki 123 sayısı, fatura numarasını temsil ediyor olabilir. Eğer bu sayıyı manuel olarak değiştirir ve örneğin 122 yaparsak:
 
-      https://keremticaret/faturagor/122
+https://keremticaret/faturagor/122
 
 bizim dışımızdaki başka bir kullanıcının faturasına erişebiliriz. Bu fatura içinde:
 
