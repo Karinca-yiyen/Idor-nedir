@@ -33,4 +33,5 @@ Sipariş bilgileri
 
 Bu, açık bir IDOR (yetkisiz erişim) zafiyetidir. Sistem, erişim kontrolü yapmadığı için herkes herhangi bir fatura numarasını girerek başka kullanıcılara ait bilgilere ulaşabilir.
 
+Kısaca Idor budur.
 
